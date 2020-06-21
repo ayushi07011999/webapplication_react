@@ -1,4 +1,4 @@
-/*import React from "react";
+import React from "react";
 //import "./style.css"
 //import Examlist from "./Component/Examlist"
 //import { render } from 'react-dom';
@@ -55,7 +55,7 @@ render()
      )):null
      }
 
-    console.log("hey ayu")
+    //console.log("hello world")
     }
      </div>
    );
@@ -65,4 +65,4 @@ render()
 
 
   }
-}*/
+}
